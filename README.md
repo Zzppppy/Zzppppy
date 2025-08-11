@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <div>
   <a href="https:///blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Major-CS-%23b0bec5" /></a>&emsp;
   <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Use-Python-%23a5d6a7" /></a>&emsp;
-  <img src="https://img.shields.io/badge/Research-OOD-%2393c5fd?logo=tencentqq" />&emsp;
-  <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Research-MLLM-%23f8bbd0" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=ZpyWHU&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
