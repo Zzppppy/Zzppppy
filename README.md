@@ -16,28 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <a href="https:///blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Major-CS-%23b0bec5" /></a>&emsp;
-  <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Use-Python-%23a5d6a7" /></a>&emsp;
+  <a href="https:///blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Major-CS-%234DB6AC" /></a>&emsp;
+  <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Use-Python-%2364B5F6" /></a>&emsp;
   <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=ZpyWHU&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <img src="https://komarev.com/ghpvc/?username=ZpyWHU&label=Views&color=FFB74D&style=flat" alt="访问量统计" />&emsp;
 </div>
 
-<div align="center">
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ZpyWHU&show_icons=true&theme=tokyonight" alt="Zpy's GitHub Stats" />
-      </td>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" />
-          <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" height="225px" />
-        </picture>
-      </td>
-    </tr>
-  </table>
+<details>
+  <summary>📊 My GitHub Stats</summary>
+  <br>
 
-</div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZpyWHU&show_icons=true&theme=tokyonight" alt="Zpy's GitHub Stats" />
+  </div>
 
+</details>
